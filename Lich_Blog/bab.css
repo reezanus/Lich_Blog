@@ -1,0 +1,30 @@
+body{
+	background: black;
+	margin: 0;
+}
+h1{
+	color: white;
+	margin: 0;
+	margin-left: 30px;
+}
+p{
+	color: white;
+	margin-left: 30px;
+}
+a{
+	color: red;
+	margin-left: 30px;
+}
+.bbt{
+	background: red;
+	height: 70px;
+}
+hr{
+	margin: 0;
+	margin-bottom: 10px;
+	margin-top: 10px;
+}
+.piton{
+	margin: 0;
+	margin-bottom: 10px;
+}
